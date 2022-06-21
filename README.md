@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+My Name Bouchra, i am developer full stack 
 <!--
 **bziraoui/bziraoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/bziraoui"><img src="https://api.daily.dev/devcards/22947388d90048c19fd16293e7cb58fd.png?r=nt9"  width="200" alt="bziraoui's Dev Card"/></a>
